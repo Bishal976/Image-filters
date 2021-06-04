@@ -6,7 +6,7 @@
 1. Demo image provided alogwith the repo! named (11.jpg) It can be used for checking purpose.
 2. If user wants to use his/her image follow the steps below: 
 3. Upload the image from the "choose files" button 
-  ![Picture not found ](htps://github.com/Bishal976/Image-filters/blob/master/show1.jpg)
+  ![Picture not found ](https://github.com/Bishal976/Image-filters/blob/master/show1.jpg)
 4. Select a filter from the available filters.
 5. Click the button to see the effects on the uploaded image!
 
